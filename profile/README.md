@@ -20,4 +20,4 @@ Demostrador de compartición soberana e interoperable de datos en el sector agro
 
 - Confianza, portabilidad y cumplimiento by design para desbloquear valor del dato agroalimentario con mínimo lock-in.
 
-![Banner Financiación](banner.png "banner")
+![Banner Financiación](banner-upscaled.png "banner")
