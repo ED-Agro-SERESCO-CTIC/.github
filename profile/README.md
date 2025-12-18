@@ -10,7 +10,7 @@ Demostrador de compartición soberana e interoperable de datos en el sector agro
 
 ## Para quién
 
-- Productores, cooperativas, procesadores, distribuidores, sector público, investigación y proveedores tecnológicos—especialmente pymes y startups—para desriesgar adopción y crear data products.
+- Productores, cooperativas, procesadores, distribuidores, sector público, investigación y proveedores tecnológicos—especialmente pymes y startups—para reducir riesgos de adopción y crear _data products_.
 
 ## Socios y ecosistema
 
